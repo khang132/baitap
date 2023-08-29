@@ -1,0 +1,6 @@
+D:\congnghe.net\bai2\bai2\bin\Debug\bai2.exe.config
+D:\congnghe.net\bai2\bai2\bin\Debug\bai2.exe
+D:\congnghe.net\bai2\bai2\bin\Debug\bai2.pdb
+D:\congnghe.net\bai2\bai2\obj\Debug\bai2.csprojResolveAssemblyReference.cache
+D:\congnghe.net\bai2\bai2\obj\Debug\bai2.exe
+D:\congnghe.net\bai2\bai2\obj\Debug\bai2.pdb
